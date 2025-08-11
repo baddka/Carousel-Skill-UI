@@ -1,4 +1,4 @@
-# 🎠 Unity Carousel Skill UI Effect
+# Unity Carousel Skill UI Effect
 
 A polished, lightweight **skill-selection carousel** for Unity — ideal for RPGs, action games, or any UI that needs a rotating, focused selection of abilities. Smooth depth, scale and opacity transitions make the selected skill pop while off-center skills feel distant.
 
@@ -13,11 +13,12 @@ A polished, lightweight **skill-selection carousel** for Unity — ideal for RPG
 ---
 
 ## Demo
-https://github.com/baddka/Carousel-Skill-UI/blob/main/Carousel-Skill-UI.mp4
+<img src="https://github.com/baddka/Carousel-Skill-UI/blob/main/Carousel-Skill-UI.gif" width="500">
+<br><br>
+
 ---
 
 ## Requirements
 - Unity 6000.0.40f1  
 - UI Toolkit not required — uses Unity UI (Canvas / RectTransform)
-
 ---
