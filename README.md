@@ -13,7 +13,7 @@ A polished, lightweight **skill-selection carousel** for Unity — ideal for RPG
 ---
 
 ## Demo
-
+https://github.com/baddka/Carousel-Skill-UI/blob/main/Carousel-Skill-UI.mp4
 ---
 
 ## Requirements
